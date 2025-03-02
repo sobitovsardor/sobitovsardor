@@ -11,9 +11,6 @@
 <h2>✒️ Recent Posts</h2>
 <ul>
 <li><a target="_blank" href=""></a></li>
+<li><a target="_blank" href="⚙️ My specialty : .net, asp.net, wpf, postgresql 💻 My programming languages : .cs, .cpp, .py ⚔️ Technogies and tools : .net, git, postgresql, sql server, sqlite 🌍 I'm mostly active within the Dotnet Community Uzbekistan 🌱 Learning all about Open Source 📫 Connect with me: telegram, linkedin, ⚡️ Fun fact: I'm a huge fan of Chess and Cyber sport">Bio</a></li>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/Sobitov Sardor" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sobitovsardor&show_icons=true&locale=en" alt="sobitovsardor" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sobitovsardor&" alt="sobitovsardor" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sobitovsardor&show_icons=true&locale=en&layout=compact" alt="sobitovsardor" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sobitovsardor" alt="sobitovsardor" /></a></p>
+<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/sobitov-sardor-aa0498257/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
