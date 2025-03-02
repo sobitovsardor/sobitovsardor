@@ -1,4 +1,4 @@
-Hi, I'am Sobitov Sardor
+Hi, I'm Sobitov Sardor
 
 
 ## 🌐 Socials:
