@@ -2,18 +2,16 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b76118cbv6v7zid1lu6k46593x1z6zwm0asmusjqfq5l0&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="151" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b76114xyi2sa91xn7euvv7fbn9b9c3vcv45yr27cchqo6&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
@@ -21,16 +19,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
 ###
 
 <div align="left">
-  <a href="https://discord.com/channels/.just.do.it" target="_blank">
+  <a href="https://discord.com/users/935800776905879552" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="just.do.it.001800@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/user/just.do.it.001800@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/sobitov-sardor-aa0498257/" target="_blank">
