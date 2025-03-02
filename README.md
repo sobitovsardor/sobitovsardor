@@ -1,15 +1,44 @@
-<h1>Hi 👋, I'm Sobitov Sardor</h1>
-<p>I'm a Software Engineer.</p>
-<h2>✒️ Recent Posts</h2>
-<ul>
-<li><a target="_blank" href=""></a></li>
-<li><a target="_blank" href="⚙️ My specialty : .net, asp.net, wpf, postgresql 💻 My programming languages : .cs, .cpp, .py ⚔️ Technogies and tools : .net, git, postgresql, sql server, sqlite 🌍 I'm mostly active within the Dotnet Community Uzbekistan 🌱 Learning all about Open Source 📫 Connect with me: telegram, linkedin, ⚡️ Fun fact: I'm a huge fan of Chess and Cyber sport">Bio</a></li>
-<li><a target="_blank" href="">⚙️ My specialty : .net, asp.net, wpf, postgresql</a></li>
-<li><a target="_blank" href="">💻 My programming languages : .cs</a></li>
-<li><a target="_blank" href="">⚔️ Technogies and tools : .net, git, postgresql, sql server, sqlite</a></li>
-<li><a target="_blank" href="">🌍 I'm mostly active within the Dotnet Community Uzbekistan</a></li>
-<li><a target="_blank" href="">🌱 Learning all about Open Source</a></li>
-<li><a target="_blank" href="">⚡️ Fun fact: I'm a huge fan of Chess</a></li>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/https://x.com/JustDoIt423017" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/sobitov-sardor-aa0498257/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<h4 align="left">Hi 👋, I'm Sobitov Sardor<br>I'm a Software Engineer.<br><br>🌍 I'm mostly active within the Dotnet Community Uzbekistan<br>🌱 Learning all about Open Source<br>⚡️ Fun fact: I'm a huge fan of Chess</h4>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://discord.com/channels/.just.do.it" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="just.do.it.001800@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/sobitov-sardor-aa0498257/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/JustDoIt423017" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
+
+###
