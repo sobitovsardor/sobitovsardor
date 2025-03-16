@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="151" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b76114xyi2sa91xn7euvv7fbn9b9c3vcv45yr27cchqo6&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
@@ -25,5 +21,4 @@
 </div>
 
 ###
-
 
