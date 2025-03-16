@@ -26,7 +26,4 @@
 
 ###
 
-<div align="left">
-</div>
 
-###
