@@ -1,6 +1,6 @@
 <h4 align="left">Hi 👋, I'm Sobitov Sardor<br>I'm a Software Engineer.<br><br>🌍 I'm mostly active within the Dotnet Community Uzbekistan<br>🌱 Learning all about Open Source<br>⚡️ Fun fact: I'm a huge fan of Chess</h4>
 
-###
+###  
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
